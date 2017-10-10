@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0051_LayoutFiles" />
+            <option value="$PROJECT_DIR$/P0061_Layouts" />
+            <option value="$PROJECT_DIR$/P0072_LayoutProp" />
+            <option value="$PROJECT_DIR$/P0081_ViewById" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/l_001firstproject" />
             <option value="$PROJECT_DIR$/p0041basicviews" />

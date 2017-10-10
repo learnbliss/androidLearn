@@ -1,4 +1,4 @@
-package com.example.layoutfiles;
+package com.example.layouts;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,6 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.myscreen);
+        setContentView(R.layout.activity_main);
     }
 }

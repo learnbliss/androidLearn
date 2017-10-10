@@ -1,4 +1,4 @@
-package com.example.layoutfiles;
+package com.example.layoutprop;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
